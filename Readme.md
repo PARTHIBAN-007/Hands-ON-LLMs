@@ -4,6 +4,9 @@ Hands-on-experience with large language models (LLMs) involves understanding the
   <img src="https://raw.githubusercontent.com/HandsOnLLM/Hands-On-Large-Language-Models/main/images/book_cover.png" width="350"/>
 </div>
 
+<div>
+  <img src="https://th.bing.com/th/id/OIP.QGwBIdFtPGMfiuYAcR0chwHaF7?w=2318&h=1856&rs=1&pid=ImgDetMain">
+</div>  
 
 | Chapter | Notebook |
 |---------|----------|
