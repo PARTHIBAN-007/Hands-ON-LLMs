@@ -5,7 +5,7 @@ Hands-on-experience with large language models (LLMs) involves understanding the
 </div>
 
 <div>
-  <img src="https://th.bing.com/th/id/OIP.QGwBIdFtPGMfiuYAcR0chwHaF7?w=2318&h=1856&rs=1&pid=ImgDetMain">
+  <img src="https://tokescompare.io/wp-content/uploads/2023/05/Evolutionary-Tree-4-1-scaled.jpg">
 </div>  
 
 | Chapter | Notebook |
