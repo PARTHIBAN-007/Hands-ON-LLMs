@@ -6,7 +6,9 @@ Hands-on-experience with large language models (LLMs) involves understanding the
 
 <div>
   <img src="https://tokescompare.io/wp-content/uploads/2023/05/Evolutionary-Tree-4-1-scaled.jpg">
-</div>  
+</div> 
+
+
 | Chapter | Notebook |
 |---------|----------|
 | Chapter 1: Introduction to Language Models | [Open Notebook](https://github.com/PARTHIBAN-007/Hands-ON-LLMs/blob/main/1%20Introduction%20To%20Transformers.ipynb) |
