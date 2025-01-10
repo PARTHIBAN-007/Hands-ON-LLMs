@@ -13,13 +13,13 @@ Hands-on-experience with large language models (LLMs) involves understanding the
 |---------|----------|
 | Chapter 1: Introduction to Language Models | [Open Notebook](https://github.com/PARTHIBAN-007/Hands-ON-LLMs/blob/main/1%20Introduction%20To%20Transformers.ipynb) |
 | Chapter 2: Tokens and Embeddings | [Open Notebook](https://github.com/PARTHIBAN-007/Hands-ON-LLMs/blob/main/2%20Tokens_and_Token_Embeddings.ipynb) |
-| Chapter 3: Looking Inside Transformer LLMs | *Notebook Coming Soon* |
+| Chapter 3: Looking Inside Transformer LLMs | https://github.com/PARTHIBAN-007/Hands-ON-LLMs/blob/main/3_Looking_Inside_LLM.ipynb |
 | Chapter 4: Text Classification | [Open Notebook](https://github.com/PARTHIBAN-007/Hands-ON-LLMs/blob/main/4%20%20Text%20Classification.ipynb) |
-| Chapter 5: Text Clustering and Topic Modeling | *Notebook Coming Soon* |
-| Chapter 6: Prompt Engineering | *Notebook Coming Soon* |
-| Chapter 7: Advanced Text Generation Techniques and Tools | *Notebook Coming Soon* |
-| Chapter 8: Semantic Search and Retrieval-Augmented Generation | *Notebook Coming Soon* |
-| Chapter 9: Multimodal Large Language Models | *Notebook Coming Soon* |
-| Chapter 10: Creating Text Embedding Models | *Notebook Coming Soon* |
-| Chapter 11: Fine-tuning Representation Models for Classification | *Notebook Coming Soon* |
-| Chapter 12: Fine-tuning Generation Models | *Notebook Coming Soon* |
+| Chapter 5: Text Clustering and Topic Modeling | https://github.com/PARTHIBAN-007/Hands-ON-LLMs/blob/main/5_Text_Clustering_and_Topic_Modelling.ipynb |
+| Chapter 6: Prompt Engineering | https://github.com/PARTHIBAN-007/Hands-ON-LLMs/blob/main/6_Prmopt_Engineering.ipynb |
+| Chapter 7: Advanced Text Generation Techniques and Tools | https://github.com/PARTHIBAN-007/Hands-ON-LLMs/blob/main/7_Advanced_Text_Generation_Techniques_and_Tools.ipynb |
+| Chapter 8: Semantic Search and Retrieval-Augmented Generation | https://github.com/PARTHIBAN-007/Hands-ON-LLMs/blob/main/8_Semantic_Search.ipynb |
+| Chapter 9: Multimodal Large Language Models | [Open Notebook](https://github.com/PARTHIBAN-007/Hands-ON-LLMs/blob/main/9_MultiModal_LLM.ipynb) |
+| Chapter 10: Creating Text Embedding Models | [Open Notebook](https://github.com/PARTHIBAN-007/Hands-ON-LLMs/blob/main/10_Text_Embedding_Model.ipynb) |
+| Chapter 11: Fine-tuning Representation Models for Classification |[Open Notebook](https://github.com/PARTHIBAN-007/Hands-ON-LLMs/blob/main/11_FineTuning_BERT.ipynb) |
+| Chapter 12: Fine-tuning Generation Models | [Open Notebook](https://github.com/PARTHIBAN-007/Hands-ON-LLMs/blob/main/12_FineTuning_Generatrion_Models.ipynb) |
