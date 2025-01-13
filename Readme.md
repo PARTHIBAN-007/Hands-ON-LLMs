@@ -17,7 +17,7 @@ Hands-on-experience with large language models (LLMs) involves understanding the
 | Chapter 4: Text Classification | [Open Notebook](https://colab.research.google.com/github/PARTHIBAN-007/Hands-ON-LLMs/blob/main/4_Text_Classification.ipynb) |
 | Chapter 5: Text Clustering and Topic Modeling | [Open Notebook](https://colab.research.google.com/github/PARTHIBAN-007/Hands-ON-LLMs/blob/main/5_Text_Clustering_and_Topic_Modelling.ipynb) |
 | Chapter 6: Prompt Engineering | [Open Notebook](https://colab.research.google.com/github/PARTHIBAN-007/Hands-ON-LLMs/blob/main/6_Prmopt_Engineering.ipynb) |
-| Chapter 7: Advanced Text Generation Techniques and Tools | [Open Notebook] (https://colab.research.google.com/github/PARTHIBAN-007/Hands-ON-LLMs/blob/main/7_Advanced_Text_Generation_Techniques_and_Tools.ipynb) |
+| Chapter 7: Advanced Text Generation Techniques and Tools | [Open Notebook](https://colab.research.google.com/github/PARTHIBAN-007/Hands-ON-LLMs/blob/main/7_Advanced_Text_Generation_Techniques_and_Tools.ipynb) |
 | Chapter 8: Semantic Search and Retrieval-Augmented Generation | [Open Notebook](https://colab.research.google.com/github/PARTHIBAN-007/Hands-ON-LLMs/blob/main/8_Semantic_Search.ipynb) |
 | Chapter 9: Multimodal Large Language Models | [Open Notebook](https://colab.research.google.com/github/PARTHIBAN-007/Hands-ON-LLMs/blob/main/9_MultiModal_LLM.ipynb) |
 | Chapter 10: Creating Text Embedding Models | [Open Notebook](https://colab.research.google.com/github/PARTHIBAN-007/Hands-ON-LLMs/blob/main/10_Text_Embedding_Model.ipynb) |
