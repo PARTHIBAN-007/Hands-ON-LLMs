@@ -99,6 +99,7 @@ For foundational concepts and reference material, explore official Hands on LLM 
 This repository is inspired by a range of educational resources and contributions from experts in the field of natural language processing and large language models. We would like to give special thanks to the following contributors for their insights and writing efforts that helped shape this repository:
 
 Jay Alammar and Maarten Grootendorst: For their deep insights into transformers and LLMs, as well as contributions to the content on tokens, embeddings, and advanced text generation.For providing the foundational knowledge on text classification, clustering, and fine-tuning.
+
 <div>
   <img src="https://raw.githubusercontent.com/HandsOnLLM/Hands-On-Large-Language-Models/main/images/book_cover.png" width="350"/>
 </div>
